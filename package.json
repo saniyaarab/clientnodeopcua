@@ -1,0 +1,15 @@
+{
+  "name": "sample_client_ts",
+  "version": "1.0.0",
+  "description": "Client for server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Saniya",
+  "license": "ISC",
+  "dependencies": {
+    "node-opcua": "^2.1.8",
+    "node-opcua-client": "^2.1.8"
+  }
+}
